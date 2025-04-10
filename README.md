@@ -12,7 +12,7 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co/FbMfrPgJ/1207004.png" style="max-width:100%; border-radius:10px; box-shadow:0 0 15px rgba(85,0,170,0.6);">
+  <img src="https://i.imgur.com/rFEl52j.png" style="max-width:100%; border-radius:10px; box-shadow:0 0 15px rgba(85,0,170,0.6);">
 </p>
 
 <!-- Intro Text -->
