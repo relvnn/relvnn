@@ -7,8 +7,6 @@
   <a href="https://pokemondb.net/pokedex/mismagius"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/mismagius.gif" style="margin:5px;"></a>
   <a href="https://pokemondb.net/pokedex/misdreavus"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/misdreavus.gif" style="margin:5px;"></a>
   <a href="https://pokemondb.net/pokedex/chandelure"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/chandelure.gif" style="margin:5px;"></a>
-  <a href="https://pokemondb.net/pokedex/trevenant"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/trevenant.gif" style="margin:5px;"></a>
-</p>
 
 <!-- Banner Image -->
 <p align="center">
